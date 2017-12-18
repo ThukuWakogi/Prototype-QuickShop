@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QuickShop.iml" filepath="$PROJECT_DIR$/QuickShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prototype-QuickShop.iml" filepath="$PROJECT_DIR$/.idea/Prototype-QuickShop.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
